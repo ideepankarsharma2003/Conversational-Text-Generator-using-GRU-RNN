@@ -9,7 +9,7 @@
 #### Understanding the Nitty Gritty: [here](https://www.tensorflow.org/text/tutorials/text_generation)<br>
 
 ### ***`Working: `***<br>
-![Alt text](demo.gif)
+![Alt text](demo-1.gif)
 
 
 
