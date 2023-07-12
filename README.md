@@ -3,7 +3,8 @@
 ![Alt text](image.png)
 
 ### ***`Working: `***<br>
-![Alt text](demo.gif)
+To check in-depth working and model architecture:  [click here](trials.ipynb)
+![Alt text](demo-1.gif)
 <!-- <video width="1080" height="720" controls>
   <source src="demo.MP4" type="video/mp4">
 </video> -->
